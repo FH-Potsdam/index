@@ -31,3 +31,16 @@ https://github.com/MapInterfaces/map-interfaces-fhp
 
 http://eco-challenge.eu/  
 https://github.com/raureif/ecochallenge
+
+### Fritzing
+
+We are creating a software tool, a community website and services in the spirit of Processing and Arduino, fostering an ecosystem that allows users to document their prototypes, share them with others, teach electronics in a classroom, and layout and manufacture professional pcbs.
+
+http://fritzing.org/  
+http://code.google.com/p/fritzing/  
+
+### Speech-To-Text Library for Processing
+
+The library listens to the microphone input of your computer and sends recordings of your voice to Google for further processing.
+
+http://stt.getflourish.com/
