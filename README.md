@@ -43,5 +43,5 @@ http://code.google.com/p/fritzing/
 
 The library listens to the microphone input of your computer and sends recordings of your voice to Google for further processing.
 
-http://stt.getflourish.com/
+http://stt.getflourish.com/  
 https://github.com/getflourish/STT
